@@ -1,0 +1,11 @@
+.imgBox {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img {
+  object-fit: cover;
+  height: 600px;
+  width: 100%;
+}
