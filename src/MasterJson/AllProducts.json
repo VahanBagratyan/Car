@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "product 1",
+            "image": "/images/homeSliderImg/1.jpg",
+            "price": 1000,
+            "availability": "avilable",
+            "carState": "new"
+        },
+        {
+            "id": 2,
+            "name": "product 2",
+            "image": "/images/homeSliderImg/1.jpg",
+            "price": 1000,
+            "availability": "avilable",
+            "carState": "new"
+        },
+        {
+            "id": 3,
+            "name": "product 3",
+            "image": "/images/homeSliderImg/1.jpg",
+            "price": 1000,
+            "availability": "avilable",
+            "carState": "new"
+        },
+        {
+            "id": 4,
+            "name": "product 4",
+            "image": "/images/homeSliderImg/1.jpg",
+            "price": 1000,
+            "availability": "avilable",
+            "carState": "new"
+        },
+        {
+            "id": 5,
+            "name": "product 5",
+            "image": "/images/homeSliderImg/1.jpg",
+            "price": 1000,
+            "availability": "avilable",
+            "carState": "new"
+        }
+    ]
+}
