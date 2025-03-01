@@ -20,10 +20,12 @@ const SliderComp = () => {
         setData(response.data);
         console.log(data);
         
-      } catch (error) { }
+      } catch (error) { 
+        console.log(error);
+      }
     };
     fetchData();
-  });
+  },([]));
 
   function SampleNextArrow(props) {
     const { className, onClick } = props;
